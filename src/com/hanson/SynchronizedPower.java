@@ -1,5 +1,8 @@
 package com.hanson;
 
+/**
+ * @author hanson kibet
+ */
 public class SynchronizedPower {
     synchronized void printPower(int n){
         int temp = 1;
